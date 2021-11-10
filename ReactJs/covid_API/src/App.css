@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(24, 24, 77);
+}
+.container{
+    background-color: rgb(179, 228, 228);
+    padding: 10px;
+    margin: 10px;
+    width: 40%;
+    border-radius: 20px;
+    box-shadow: 0 0 5px rgb(241, 232, 232);
+
+}
+
+.container-fluid{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.input1{
+   display: flex;
+   width: 40%;
+   margin-left: 450px;
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
+
+.color{
+    color:red
+}
+
+h1{
+    text-align: center;
+    margin: 5px;
+    color: white;
+}
+button{
+    background-color: green;
+}
